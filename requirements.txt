@@ -1,0 +1,16 @@
+openai~=1.78.0
+dotenv~=0.9.9
+python-dotenv~=1.1.0
+langchain-core~=0.3.59
+langgraph~=0.4.3
+pydantic~=2.11.4
+protobuf~=5.29.4
+langchain-google-genai~=2.1.4
+langchain-openai~=0.3.16
+langchain~=0.3.25
+streamlit~=1.46.1
+arxiv~=2.2.0
+pandas~=2.2.3
+requests~=2.32.3
+psycopg2~=2.9.10
+markdown~=3.8.2
