@@ -1,4 +1,4 @@
-# Patent Deep Research Agent (PDRA)
+# Patent Deep Research Agents (PDRA)
 
 
 ## Abstract:
