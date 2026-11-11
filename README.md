@@ -24,6 +24,7 @@ Advances in Large Language Models have enabled autonomous Deep Research agents t
 This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/sofean-mso/Patent-Deep-Research/blob/main/LICENSE) file for details. 
 
 ## Citation
+```bibtex
 InProceedings{DR-Patents,
 author="Mustafa Sofean
 and Hidir Aras",
