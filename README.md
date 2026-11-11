@@ -23,5 +23,18 @@ Advances in Large Language Models have enabled autonomous Deep Research agents t
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/sofean-mso/Patent-Deep-Research/blob/main/LICENSE) file for details. 
 
+## Citation
+InProceedings{DR-Patents,
+author="Mustafa Sofean
+and Hidir Aras",
+title="A Multi-agent AI System for Automated Patent Deep Research and Analysis",
+booktitle="Database and Expert Systems Applications",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="271--285",
+isbn="978-3-032-34374-1"
+}
+
 
 
