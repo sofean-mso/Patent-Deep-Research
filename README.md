@@ -30,9 +30,8 @@ author="Mustafa Sofean
 and Hidir Aras",
 title="A Multi-agent AI System for Automated Patent Deep Research and Analysis",
 booktitle="Database and Expert Systems Applications",
-year="2027",
+year="2026",
 publisher="Springer Nature Switzerland",
-address="Cham",
 pages="271--285",
 isbn="978-3-032-34374-1"
 }
